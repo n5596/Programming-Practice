@@ -1,0 +1,5 @@
+1. ord(): converts char to int
+2. chr(): converts int to char
+3. If A xor B = C, B xor C = A and A xor C = B
+4. A xor 0 = A (0 is identity for XOR)
+
