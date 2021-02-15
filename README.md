@@ -11,3 +11,5 @@ Range sum of bst: https://leetcode.com/problems/range-sum-of-bst/
 Remove outermost parentheses: https://leetcode.com/problems/remove-outermost-parentheses/
 
 Factorial trailing zeros: https://leetcode.com/problems/factorial-trailing-zeroes/ 
+
+Count primes: https://leetcode.com/problems/count-primes/
