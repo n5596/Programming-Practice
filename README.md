@@ -16,4 +16,8 @@ Count primes: https://leetcode.com/problems/count-primes/
 
 [Medium]
 
-Minimum number of operations to move all balls to each box: https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/submissions/
+Minimum number of operations to move all balls to each box: https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/
+
+Max increase to keep city skyline: https://leetcode.com/problems/max-increase-to-keep-city-skyline/
+
+Group the people given the group size they belong to: https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/
