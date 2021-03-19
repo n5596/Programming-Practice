@@ -31,3 +31,5 @@ Min operations to make array equal: https://leetcode.com/problems/minimum-operat
 Sum of nodes with even valued grandparents: https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent/
 
 Deepest leaves sum: https://leetcode.com/problems/deepest-leaves-sum/
+
+Count vowel strings: https://leetcode.com/problems/count-sorted-vowel-strings/ (**)
