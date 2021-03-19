@@ -22,4 +22,12 @@ Max increase to keep city skyline: https://leetcode.com/problems/max-increase-to
 
 Group the people given the group size they belong to: https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/
 
-Sort matrix diagonally (**): https://leetcode.com/problems/sort-the-matrix-diagonally/
+Sort matrix diagonally: https://leetcode.com/problems/sort-the-matrix-diagonally/  (**)
+
+Find corresponding node in a cloned tree: https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/
+
+Min operations to make array equal: https://leetcode.com/problems/minimum-operations-to-make-array-equal/ (**)
+
+Sum of nodes with even valued grandparents: https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent/
+
+Deepest leaves sum: https://leetcode.com/problems/deepest-leaves-sum/
