@@ -13,3 +13,7 @@ Remove outermost parentheses: https://leetcode.com/problems/remove-outermost-par
 Factorial trailing zeros: https://leetcode.com/problems/factorial-trailing-zeroes/ 
 
 Count primes: https://leetcode.com/problems/count-primes/
+
+[Medium]
+
+Minimum number of operations to move all balls to each box: https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/submissions/
