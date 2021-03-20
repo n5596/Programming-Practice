@@ -33,3 +33,9 @@ Sum of nodes with even valued grandparents: https://leetcode.com/problems/sum-of
 Deepest leaves sum: https://leetcode.com/problems/deepest-leaves-sum/
 
 Count vowel strings: https://leetcode.com/problems/count-sorted-vowel-strings/ (**)
+
+Remove leaf nodes with target value: https://leetcode.com/problems/delete-leaves-with-a-given-value/ (**)
+
+Smallest set of vertices: https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/ (**)
+
+Merged linked lists: https://leetcode.com/problems/merge-in-between-linked-lists/
