@@ -39,3 +39,35 @@ Remove leaf nodes with target value: https://leetcode.com/problems/delete-leaves
 Smallest set of vertices: https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/ (**)
 
 Merged linked lists: https://leetcode.com/problems/merge-in-between-linked-lists/
+
+Count good nodes in binary tree: https://leetcode.com/problems/count-good-nodes-in-binary-tree/
+
+Find bottom left leaf value: https://leetcode.com/problems/find-bottom-left-tree-value/
+
+Find duplicates in array: https://leetcode.com/problems/find-all-duplicates-in-an-array/ (**) GFG
+
+Find replace pattern: https://leetcode.com/problems/find-and-replace-pattern/ (**)
+
+Flip equivalent binary trees: https://leetcode.com/problems/flip-equivalent-binary-trees/ (**)
+
+kth smallest in BST: https://leetcode.com/problems/kth-smallest-element-in-a-bst/ (**) GFG
+
+Largest value in tree row: https://leetcode.com/problems/find-largest-value-in-each-tree-row/
+
+LCA of deepest leaves: https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves/ (**)
+
+Max diff between node and ancestor: https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/ (**)
+
+Min fibonacci numbers to sum to k: https://leetcode.com/problems/find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k/ (Can improve)
+
+Min add to make valid parantheses: https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/
+
+Queens that can attack king: https://leetcode.com/problems/queens-that-can-attack-the-king/
+
+Score of parentheses: https://leetcode.com/problems/score-of-parentheses/ (**)
+
+Sort characters by frequency: https://leetcode.com/problems/sort-characters-by-frequency/
+
+Top k frequent elements: https://leetcode.com/problems/top-k-frequent-elements/ (Can improve)
+
+Validate stack sequences: https://leetcode.com/problems/validate-stack-sequences/
