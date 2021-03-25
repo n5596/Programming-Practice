@@ -6,4 +6,5 @@
 6. To find unique numbers in a list, convert it to a set and then back to a list. A = list(set(A)).
 7. To find the jth column of a grid in python, use list comprehension: col = [sub[j] for sub in grid]. To find the jth row, simply use grid[j].
 8. Use range(l,m,n) where range starts at l, ends at m-1 and increments by n.
-
+9. To sort dict by values: sort = sorted(di.values()). If we want to sort in desc order: sort = sorted(di.values(), reverse=True).
+10. To add the character 'c' 5 times ('ccccc') to a string s: s = s+'c'*5.
