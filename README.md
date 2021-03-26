@@ -71,3 +71,18 @@ Sort characters by frequency: https://leetcode.com/problems/sort-characters-by-f
 Top k frequent elements: https://leetcode.com/problems/top-k-frequent-elements/ (Can improve)
 
 Validate stack sequences: https://leetcode.com/problems/validate-stack-sequences/
+
+Convert to base -2: https://leetcode.com/problems/convert-to-base-2/ (**) GFG
+
+Rearrange words in a sentence: https://leetcode.com/problems/rearrange-words-in-a-sentence/ (Can improve)
+
+Min cost to delete repeating letters: https://leetcode.com/problems/minimum-deletion-cost-to-avoid-repeating-letters/ (**) Stack based
+
+Odd even linked list: https://leetcode.com/problems/odd-even-linked-list/ (Can improve)
+
+Binary tree inorder traversal: https://leetcode.com/problems/binary-tree-inorder-traversal/
+
+Binary tree level order traversal: https://leetcode.com/problems/binary-tree-level-order-traversal/
+
+Generate all subsets: https://leetcode.com/problems/subsets/ (**) (Can improve)
+
